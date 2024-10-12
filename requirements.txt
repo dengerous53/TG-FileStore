@@ -4,6 +4,8 @@ motor
 aiofiles
 dnspython
 psutil
+render
+requests
 
 #For Deployable In Koyeb And Render
 
